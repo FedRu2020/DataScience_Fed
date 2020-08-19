@@ -5,9 +5,8 @@ import numpy as np
 def game_core_v3(number):
     '''First set random number as predict and then call binary_search function.
       Function to get guess number and return amount of attempts '''
-    count = 1
     predict = np.random.randint(1,101)
-    count=binary_search(number,predict)
+    count = binary_search(number,predict)
                    
     return(count) # loop exit, when guessed
 
