@@ -27,7 +27,6 @@ def model_predict(value):
             regressor_from_file = pickle.load(pkl_file) #loading of binary model
        
     value_to_predict = np.array([value]).reshape(-1, 1)
-#     regressor.predict(value_to_predict)
     return regressor_from_file.predict(value_to_predict)
 
 #  request procession function 
