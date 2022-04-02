@@ -14,7 +14,7 @@ This repository provide example of monitorign of an ML model for classification 
 
 2. Model's metrics scrapping with Prometheus. 
 - starting a simpe flask server on localhost:5000 with monitoring of model metrics (serve.py).
-- sending request to the local server with data with changed features 
+- sending request to the local server with data with changed features (load.py).
 
 3. Connecting of Prometheus to Grafana.
 - updating prometheus.yml file
