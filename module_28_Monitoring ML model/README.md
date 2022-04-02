@@ -3,7 +3,7 @@
 This repository provide example of monitorign of an ML model for classification of red wine. 
 
 ## Task
-	Monitoring of ML model using Prometheus and Grafana.
+   Monitoring of ML model using Prometheus and Grafana.
 
 ## Steps
 
