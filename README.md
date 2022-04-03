@@ -4,7 +4,7 @@ This is my petprojects respository where I put projects I did during my Data Sci
 
 The repository consists of the following projects:
 
-1. ['Deploy Cancer prediction']()
+1. ['Deploy Cancer prediction'](https://github.com/FedRu2020/DataScience_Fed/tree/master/Deploy%20Cancer%20prediction)
 - Deploy of model for cancer prediction using simple flask server
 
 2. ['module_0']()
